@@ -1,5 +1,4 @@
-Conception d'un tableau de bord de Business Intelligence pour l'analyse de diverses sources de données.
-
+Designing a Business Intelligence dashboard for analyzing various data sources.
 OverView :
 
 ![4](https://github.com/user-attachments/assets/931127c8-e736-4292-8040-7fce4383e22f)
